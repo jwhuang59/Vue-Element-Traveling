@@ -223,12 +223,6 @@ export default {
 
 <style>
 
-#loading{max-width:450px;width:100%;position:fixed;left:0;right:0;top:0;bottom:0;margin:0 auto;z-index:9999;}
-
-.loading{height:100%;}
-.el-loading-spinner .path{stroke:#06c1ae;}
-
-
 .detaillistnav{width:100%;max-width:450px;background:#fff;top:0;z-index:999;}
 .el-tabs__nav{width:100%;}
 .el-tabs__header{margin:0;}
