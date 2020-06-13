@@ -198,7 +198,7 @@ export default {
 
 	},
 
-    destroyed () {
+    beforeDestroy () {
 	  window.removeEventListener('scroll', this.scrollFunc)
 
 	},
